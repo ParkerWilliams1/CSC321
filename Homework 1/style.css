@@ -1,0 +1,88 @@
+body {
+  color: black;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  text-align: center;
+  background: #7379F9;
+  color: white;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+
+main {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+.aboutme {
+  color: red;
+  text-align: center;
+  margin-right: 20px;
+}
+
+.courses-container {
+  display: flex;
+}
+
+.courses {
+  color: white;
+  text-align: center;
+  background: #7379F9;
+  width: 25%;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.schedule {
+  margin-left: 20px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid black;
+  padding: 10px;
+  text-align: center;
+}
+
+th {
+  background-color: #7379F9;
+  color: white;
+}
+
+td {
+  height: 80px;
+}
+
+.PHY201 {
+  color: #F6BD09;
+  font-weight: bold;
+}
+
+.MAT403 {
+  color: red;
+  font-weight: bold;
+}
+
+.EGR227 {
+  color: purple;
+  font-weight: bold;
+}
+
+.EGR226 {
+  color: blue;
+  font-weight: bold;
+}
+
+.CSC321 {
+  color: salmon;
+  font-weight: bold;
+}
